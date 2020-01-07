@@ -22,8 +22,8 @@ title: sikorad blog
 email: sikoradblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Moj blog opisujacy przygode z it ktora rozpoczalem od zeraw dwa lata do czterdziestki.
-baseurl: "sikorad" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "sikorad.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  sikoradblog
 
