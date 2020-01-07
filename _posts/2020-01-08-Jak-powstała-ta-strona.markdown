@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Jak powstala strona sikorad.com"
+date:   2020-01-08 05:10:12 +0000
+categories: it blog jekyll github
+---
+Krok pierwszy mojego planu
