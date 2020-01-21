@@ -22,7 +22,7 @@ Dane mają być dostępne po zalogowaniu.
 Dostępna funkcjonalność będzie zależna od grupy w jakiej znajduje się dany użytkownik. 
 Zdaję sobie sprawę z poziomu trudności w/w założeń i prawdopodobnie jest to kolejny błąd początkującego programisty jednak z dużym poziomem motywacji i podziałem na mniejsze etapy powinno się udać.
 
-Na początek wykonałem wstępny szkic ( mam nadzieję że finalnie będzie zdecydowanie lepiej wyglądał ) interfejsu użytkownika. Jak można zauważyć poniżej do wykonania wstępnego zarysu użyłem frameworku CSS - Bootstrap 4 i pomimo że jest to mój drugi raz kiedy posługuję się tą “biblioteką” to muszę przyznać że jest on bardzo przyjazny w użyciu dzięki przyjaznej dokumentacji.
+Na początek wykonałem wstępny szkic ( mam nadzieję że finalnie będzie zdecydowanie lepiej wyglądał ) interfejsu użytkownika. Jak można zauważyć poniżej do wykonania wstępnego zarysu użyłem frameworku CSS - [Bootstrap-4](https://getbootstrap.com/) i pomimo że jest to mój drugi raz kiedy posługuję się tą “biblioteką” to muszę przyznać że jest on bardzo przyjazny w użyciu dzięki przyjaznej dokumentacji.
 
 ![interfejs uzytkownika - wstepny szkic](/assets/images/R_list_concept_1.png)
 
