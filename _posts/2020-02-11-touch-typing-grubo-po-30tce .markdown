@@ -11,6 +11,8 @@ Wczoraj po konejnejnych kilkunastu minutach spedzonych na przegladaniu kodu w ce
 w kodzie, postanowilem to zmienic. Wprowadzilem wiec do mojego programu nauke pisania bezwzrokowego. 
 Teoretycznie powinno to wyeliminowac wieksza czesc blednie wprowadzanych liter.
 
+![ilustracja touch typing](/assets/images/touch-typing-fingers.png)
+
 
 
 
