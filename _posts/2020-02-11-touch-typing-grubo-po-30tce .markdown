@@ -4,7 +4,7 @@ title:  "Touch Typing grubo po trzydziestce"
 date:   2020-02-11 06:10:01 +0000
 categories: it nauka program
 ---
-C - czyli pisanie bezwzrokowe na klawiaturze.
+Touch Typing - czyli pisanie bezwzrokowe na klawiaturze.
 
 Kolejna pulapla poczatkujacego - jak juz wpadlem w wir nauki to wpadaja mi do glowy rozne pomysly.
 Wczoraj po konejnejnych kilkunastu minutach spedzonych na przegladaniu kodu w celu odnalezienia literowki
@@ -29,9 +29,14 @@ YHN - "yeti has napp",
 UJM - "uncle joe man",
 IK, - "is -k-oma",
 OL. - "one love kropka"
-P:? - "py :) )
+P:? - "py :) "
 
 Na koniec jeszcze jedna cenna moim zdaniew wskazowka - cwicz z ideologia "The Slight Edge"... powodzenia 
+
+------------
+Jezeli chodzi o mnie to jestem dopiero na poczatku mojej przygody z "TT", ponizej zamiescilem wynik mojego testu z 11LUTY2020 - Jest wolno :/
+
+![wynik z 11luty2020](/assets/images/touch_typing_11FEB2020.JPG)
 
 
 
