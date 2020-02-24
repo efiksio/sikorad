@@ -39,7 +39,7 @@ Jeżeli chodzi o mnie to jestem dopiero na początku mojej przygody z "TT", poni
 ![wynik z 11luty2020](/assets/images/touch_typing_11FEB2020.JPG)
 
 -----------
-Test z 22 LUTEGO 2020 na chwilę obecna udaje mi się wygospodarować po 10 minut każdego dnia. Czuję zdecydowaną poprawę jednak jeszcze nie jest to zdecydowanie za wolno aby przełączyć się na TT. Największą trudność sprawiają mi znaki które należy wprowadzać z shift i alt zwłaszcza że ten drugi umieszczony jest w innym miejscu na pc_cie i maku.
+Test z 22 LUTEGO 2020 na chwilę obecna udaje mi się wygospodarować po 10 minut każdego dnia. Czuję zdecydowaną poprawę jednak jeszcze nie jest to za wolno aby przełączyć się na TT. Największą trudność sprawiają mi znaki które należy wprowadzać z shift i alt zwłaszcza że ten drugi umieszczony jest w innym miejscu na pc_cie i maku.
 
 ![wynik z 22luty2020](/assets/images/22FEB2020_TT_Test_5m_4000.png)
 
