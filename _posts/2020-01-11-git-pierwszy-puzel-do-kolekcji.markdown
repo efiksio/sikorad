@@ -8,7 +8,7 @@ Co to jest git i dlaczego warto moim zdaniem rozpocząć naukę właśnie od teg
 
 Git to rozproszony system służący do kontroli wersji (przykładowo naszego kodu) jest on w bardzo przystępny sposób opisany na stronie [git-scm.com](https://git-scm.com/book/pl/v2/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji).
 
-*Ponieważ zdecydowałem się prowadzić ten blog w celach pomocniczo-naukowych. Głownie do notowania postępów oraz szybkich notatek które bedą mi pozwalały na szybki powrót do danego zagadnienia, opis programów wykonywany jest w dużym uproszczeniu.*
+*Ponieważ zdecydowałem się prowadzić ten blog w celach pomocniczo-naukowych, głownie do notowania postępów oraz szybkich notatek. Będą mi pozwalały w późniejszym czasie na szybki powrót do danego zagadnienia. Opis programów wykonywany jest więc w dużym uproszczeniu.*
 
 {:refdef: style="text-align: center;"}
 ![Po co ten Git?](https://git-scm.com/images/logo@2x.png)
@@ -43,6 +43,25 @@ git add .
 git commit -m "komentarz do zmian"
 {% endhighlight %}
 
+* W celu unikania pracy na gałęzi master możemy stworzyć własna:
+
+{% highlight bash %}
+git checkout -b nazwa_gałęzi
+{% endhighlight %}
+
+* Scalamy naszą gałąź z masterem:
+
+{% highlight bash %}
+git checkout master
+git --no-ff nazwa_gałęzi
+{% endhighlight %}
+
+* Usuwamy naszą gałąź:
+
+{% highlight bash %}
+git branch -d nazwa_gałęzi
+{% endhighlight %}
+
 + Wyświetlenie historii zmian dla naszej rewizji
 
 {% highlight bash %}
@@ -67,3 +86,4 @@ określonej datą;_
 
 `git log --author`   _jeżeli pracujemy w teamie możemy filtrować listę określając autora zmian._
 
+W celu zagłębienia się w temat polecam [kurs gita] (https://edu.devstyle.pl/) od Macieja Aniserowicza.
