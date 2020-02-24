@@ -86,4 +86,4 @@ określonej datą;_
 
 `git log --author`   _jeżeli pracujemy w teamie możemy filtrować listę określając autora zmian._
 
-W celu zagłębienia się w temat polecam [kurs gita] (https://edu.devstyle.pl/) od Macieja Aniserowicza.
+W celu zagłębienia się w temat polecam [kurs gita](https://edu.devstyle.pl/) od Macieja Aniserowicza.
